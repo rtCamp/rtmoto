@@ -1,7 +1,0 @@
-legend{ margin-left: -7px; } /* thnx ivannikolic! */
-input { vertical-align: text-bottom; }
-.clear { height: 0px; overflow: hidden; } /* ie6 : height issue */
-#respond { width: 96.5%; }
-div.comment-body { height: 100%; }
-.clearfix { zoom: 1; } /* IE < 8 */
-#sidebar ul li { height: 100%; }
